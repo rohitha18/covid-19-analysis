@@ -6,7 +6,7 @@ There are a myriad number of data sources on the web that provide COVID-19 relat
 
 The data splits across worldwide confirmed cases, deaths, and recovered cases. To figure how the spread has progessed over a period of time, I plotted the confirmed cases using plotly.graph_objects.
 
-For the first part, I did some exploratory analysis on the data and summarized some statistics by plotting trends in existing data.
+For the first part, I did an exploratory analysis on the data and summarized some statistics by plotting trends from the existing dataset.
 
 # Graphical Progression
 
