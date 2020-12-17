@@ -1,4 +1,4 @@
-# Data Modeling COVID-19 Spread using Data Analytics in Python
+# Simple Data Modeling COVID-19 Spread using Data Analytics in Python
 
 This project encompasses data modeling and analyzing COVID-19 spread with the use of data science and data analytics in Python. This analysis helps to find the scope of the virus spread from purely a dataset perspective.
 
